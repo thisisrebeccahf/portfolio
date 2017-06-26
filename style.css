@@ -1,4 +1,6 @@
 body {
+        background-color: #1aa12c;
+}
         
 h1 {
     font-family: 'Patrick Hand SC', cursive;
@@ -6,4 +8,5 @@ h1 {
        }
 p {
     font-family: Aerial;
+    color: rgba( 186, 255, 195, .8);
         }

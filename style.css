@@ -12,6 +12,6 @@ h1 {
        }
 p {
     font-family: Aerial;
-    color: rgba( 29, 92, 19, .8);
-    background-color: White;
+    color: White;
+    font-size: 20px
         }

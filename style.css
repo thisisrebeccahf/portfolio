@@ -2,7 +2,7 @@ body {
        text-align: center;
         background-color: #1aa12c;
         background-image: "http://s2.favim.com/orig/150912/-beautiful-blue-cool-Favim.com-3282862.gif"
-}
+       }
         
 h1 {
     border-bottom: 3px solid rgba(100, 173, 170, 0.6);
@@ -10,9 +10,10 @@ h1 {
     font-family: 'Patrick Hand SC', cursive;
     font-size: 200;
     color: #58e083;
+    text-transform: uppercase;
        }
 p {
-    font-family: Aerial;
+    font-family: 'Indie Flower', cursive;
     color: White;
     font-size: 20px
         }
@@ -22,5 +23,5 @@ ul {
 }
 
 li {
-       colore: White;
-}
+       color: White;
+       }
